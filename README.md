@@ -1,2 +1,2 @@
-# Segmenting-and-Clustering
-Segmenting and Clustering Neighborhoods 
+# Segmenting-and-Clustering-Neighborhoods-in-Toronto
+Segmenting and Clustering Neighborhoods in Toronto_IBM Data Science Capstone Project_Week 3
